@@ -7,3 +7,5 @@ app:
     tag: latest #TODO: cambiar por el tag de la imagen (ver en pipeline)
 ingress:
   host: #TODO  
+secret:
+  configjson: ewogICAgICAgICJhdXRocyI6IHsKICAgICAgICAgICAgICAgICJodHRwczovL2luZGV4LmRvY2tlci5pby92MS8iOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICJhdXRoIjogImFtOWhjWFZwYm5OdmJHRnlhVHBrYjJOclpYSXhOakE0IgogICAgICAgICAgICAgICAgfQogICAgICAgIH0KfQo=
