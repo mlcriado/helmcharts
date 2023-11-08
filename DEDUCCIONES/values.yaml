@@ -4,6 +4,6 @@ app:
   image:
     owner: joaquinsolari
     repository: deducciones
-    tag: latest #TODO: cambiar por el tag de la imagen (ver en pipeline)
+    tag: 352 #TODO: cambiar por el tag de la imagen (ver en pipeline)
 secret:
   configjson: ewogICAgICAgICJhdXRocyI6IHsKICAgICAgICAgICAgICAgICJodHRwczovL2luZGV4LmRvY2tlci5pby92MS8iOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICJhdXRoIjogImFtOWhjWFZwYm5OdmJHRnlhVHBrYjJOclpYSXhOakE0IgogICAgICAgICAgICAgICAgfQogICAgICAgIH0KfQo=
