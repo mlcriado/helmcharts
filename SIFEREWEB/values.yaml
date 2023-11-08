@@ -1,0 +1,9 @@
+app:
+  name: sifere-web
+  replicaCount: 1
+  image:
+    owner: joaquinsolari
+    repository: sifere-web
+    tag: latest #TODO: cambiar por el tag de la imagen (ver en pipeline)
+ingress:
+  host: #TODO  

@@ -1,0 +1,7 @@
+app:
+  name: deducciones
+  replicaCount: 1
+  image:
+    owner: joaquinsolari
+    repository: deducciones
+    tag: latest #TODO: cambiar por el tag de la imagen (ver en pipeline)
