@@ -4,7 +4,7 @@ app:
   image:
     owner: joaquinsolari
     repository: sifere-web
-    tag: 353 #TODO: cambiar por el tag de la imagen (ver en pipeline)
+    tag: 374
 ingress:
   host: #TODO  
 secret:
