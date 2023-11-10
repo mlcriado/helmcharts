@@ -4,6 +4,6 @@ app:
   image:
     owner: joaquinsolari
     repository: deducciones
-    tag:' 368'
+    tag: 369
 secret:
   configjson: ewogICAgICAgICJhdXRocyI6IHsKICAgICAgICAgICAgICAgICJodHRwczovL2luZGV4LmRvY2tlci5pby92MS8iOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICJhdXRoIjogImFtOWhjWFZwYm5OdmJHRnlhVHBrYjJOclpYSXhOakE0IgogICAgICAgICAgICAgICAgfQogICAgICAgIH0KfQo=
