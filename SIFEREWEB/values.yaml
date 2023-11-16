@@ -4,7 +4,7 @@ app:
   image:
     owner: joaquinsolari
     repository: sifere-web
-    tag: 374
+    tag: 394
 ingress:
   host: #TODO  
 secret:
