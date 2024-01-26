@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://esponja.comarb.gob.ar/joaquin.solari/INFRA.git
+    repoURL: https://esponja.comarb.gob.ar/laura.criado/INFRA.git
     path: DEDUCCIONES
   destination:
     server: https://kubernetes.default.svc
