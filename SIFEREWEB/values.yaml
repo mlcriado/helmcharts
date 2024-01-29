@@ -2,10 +2,10 @@ app:
   name: sifere-web
   replicaCount: 1
   image:
-    owner: joaquinsolari
-    repository: sifere-web
+    owner: lauracriado1
+    repository: sifereweb
     tag: 409
 ingress:
   host: #TODO  
 secret:
-  configjson: ewogICAgICAgICJhdXRocyI6IHsKICAgICAgICAgICAgICAgICJodHRwczovL2luZGV4LmRvY2tlci5pby92MS8iOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICJhdXRoIjogImFtOWhjWFZwYm5OdmJHRnlhVHBrYjJOclpYSXhOakE0IgogICAgICAgICAgICAgICAgfQogICAgICAgIH0KfQo=
+  configjson: ewoJImF1dGhzIjogewoJCSJodHRwczovL2luZGV4LmRvY2tlci5pby92MS8iOiB7CgkJICAgICAgICAiYXV0aCI6ICJiR0YxY21GamNtbGhaRzh4T21SamEzSmZjR0YwWDBOTFMweDJNV0owZDNWRVVWcFNkbmxQTW01NGNVSnRZVmQ2VVE9PSIKCQl9CgkJCgkKICAgICAgICB9Cn0KCg==
