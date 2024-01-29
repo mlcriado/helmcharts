@@ -4,7 +4,7 @@ app:
   image:
     owner: lauracriado1
     repository: sifereweb
-    tag: 545
+    tag: 546
 ingress:
   host: #TODO  
 secret:
