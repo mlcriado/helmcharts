@@ -2,7 +2,7 @@ app:
   name: deducciones
   replicaCount: 1
   image:
-    owner: joaquinsolari
+    owner: lauracriado1
     repository: deducciones
     tag: 415
 secret:
