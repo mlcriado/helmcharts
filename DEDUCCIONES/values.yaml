@@ -4,6 +4,6 @@ app:
   image:
     owner: lauracriado1
     repository: deducciones
-    tag:
+    tag: 563
 secret:
   configjson: ewoJImF1dGhzIjogewoJCSJodHRwczovL2luZGV4LmRvY2tlci5pby92MS8iOiB7CgkJICAgICAgICAiYXV0aCI6ICJiR0YxY21GamNtbGhaRzh4T21SamEzSmZjR0YwWDBOTFMweDJNV0owZDNWRVVWcFNkbmxQTW01NGNVSnRZVmQ2VVE9PSIKCQl9CgkJCgkKICAgICAgICB9Cn0KCg==
