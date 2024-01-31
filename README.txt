@@ -1,2 +1,2 @@
 
-Repo donde estará el chart de helm.
+Repo donde va a esatr el chart de helm.
